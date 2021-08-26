@@ -3,8 +3,9 @@
 
 <details>
 <summary>Progress of 42cursus</summary>
-  | Project Name | Duration | Score |
-  | --- | --- | --- |
-  | libft | 20.02.24 ~ 20.04.29 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/libft)](https://github.com/JaeSeoKim/badge42) |
+
+| Project Name | Duration | Score |
+| --- | --- | --- |
+| libft | 20.02.24 ~ 20.04.29 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/libft)](https://github.com/JaeSeoKim/badge42) |
   
 </details>
