@@ -15,7 +15,7 @@
 | libasm | 6 days | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/libasm)](https://github.com/JaeSeoKim/badge42) |
 | minishell | 42 days | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/minishell)](https://github.com/JaeSeoKim/badge42) |
 | ft_services | 18 days | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/ft_services)](https://github.com/JaeSeoKim/badge42) |
-| philosophers | 16 days | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/philosophers)](https://github.com/JaeSeoKim/badge42) |
+| philosophers | 16 days | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/Philosophers)](https://github.com/JaeSeoKim/badge42) |
 | CPP Modules | 21 days | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/CPP%20Module%2008)](https://github.com/JaeSeoKim/badge42) |
 | push_swap | 30 days | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/push_swap)](https://github.com/JaeSeoKim/badge42) |
 | pipex | 1 days | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/pipex)](https://github.com/JaeSeoKim/badge42) |
