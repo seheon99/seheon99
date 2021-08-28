@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=42&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=42&logoColor=black"/></a>
 
 | [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true&darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42) | [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true&darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42) |
 | --- | --- |
