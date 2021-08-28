@@ -5,8 +5,8 @@
 | [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true&darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42) | [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true&darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42) |
 | --- | --- |
 
-<details>
-<summary>Progress of 42cursus</summary>
+<!-- <details> -->
+<!-- <summary>Progress of 42cursus</summary> -->
 
 | Project Name | Duration | Score |
 | --- | --- | --- |
@@ -27,4 +27,4 @@
 | webserv       | 37 days | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/webserv)](https://github.com/JaeSeoKim/badge42) |
 | ft_transcendence | Not yet | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/ft_transcendence)](https://github.com/JaeSeoKim/badge42) |
   
-</details>
+<!-- </details> -->
