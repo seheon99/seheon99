@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/badge/42_Seoul-000000?style=flat-square&logo=42&logoColor=black"/></a>
+<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
+<a href="42.fr" target="_blank"><img src="https://img.shields.io/badge/42_Seoul-000000?style=plastic&logo=42&logoColor=000000"/></a>
 
 | [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true&darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42) | [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true&darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42) |
 | --- | --- |
