@@ -1,32 +1,23 @@
-<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Seheon%20Yu&animation=twinkling&fontColor=393E46&fontSize=100&fontAlign=70&fontAlignY=60&desc=Computer%20Science%20Student&descAlign=70&descAlignY=85&rotate=0)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeheonYu%2FSeheonYu&count_bg=%235094F0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com) [![wakatime](https://wakatime.com/badge/user/446db5e7-ff26-4081-90ae-091b9f0fc8b2.svg)](https://wakatime.com/@446db5e7-ff26-4081-90ae-091b9f0fc8b2)
 
-### 42 Seoul Cadet
+Hi, I'm Seheon --- a CS student with an interest in NLP 🧐 
+I'm also interested in making useful services and machines.
+My dream is to make a really cool and useful AI like Jarvis 🤖 with various IoT devices in my home 🏠
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true&darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+## 🐥 Study in 42 since 2020.2. 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-<details>
-<summary>Progress of 42cursus</summary>
+---
 
-| [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true&darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42) | [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true&darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42) |
-| --- | --- |
+## 📄 Languages in my code
 
-| Project Name  | Duration | Score |
-| ------------- | -------- | ----- |
-| libft         | 66 days  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/Libft)](https://github.com/JaeSeoKim/badge42) |
-| get_next_line | 11 days  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/get_next_line)](https://github.com/JaeSeoKim/badge42) |
-| ft_printf     | 87 days  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/ft_printf)](https://github.com/JaeSeoKim/badge42) |
-| netwhat       | 6 days   | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/netwhat)](https://github.com/JaeSeoKim/badge42) |
-| ft_server     | 45 days  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/ft_server)](https://github.com/JaeSeoKim/badge42) |
-| miniRT        | 52 days  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/miniRT)](https://github.com/JaeSeoKim/badge42) |
-| libasm        | 6 days   | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/libasm)](https://github.com/JaeSeoKim/badge42) |
-| minishell     | 42 days  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/minishell)](https://github.com/JaeSeoKim/badge42) |
-| ft_services   | 18 days  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/ft_services)](https://github.com/JaeSeoKim/badge42) |
-| philosophers  | 16 days  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/Philosophers)](https://github.com/JaeSeoKim/badge42) |
-| CPP Modules   | 21 days  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/CPP%20Module%2008)](https://github.com/JaeSeoKim/badge42) |
-| push_swap     | 30 days  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/push_swap)](https://github.com/JaeSeoKim/badge42) |
-| pipex         | 1 days   | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/pipex)](https://github.com/JaeSeoKim/badge42) |
-| ft_containers | 7 days   | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/ft_containers)](https://github.com/JaeSeoKim/badge42) |
-| webserv       | 37 days  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/webserv)](https://github.com/JaeSeoKim/badge42) |
-| ft_transcendence | Not yet | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seyu/ft_transcendence)](https://github.com/JaeSeoKim/badge42) |
-  
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeheonYu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⏰ Languages in my time
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seyu)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+# 📊 My Github Stats
+[![Seheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seheonyu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
