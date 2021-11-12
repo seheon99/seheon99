@@ -9,7 +9,7 @@ I'm also interested in making useful services and machines.
 My dream is to make a really cool and useful AI like Jarvis 🤖 with various IoT devices in my home 🏠
 
 ## 🐥 Study in 42 since 2020.2. 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![seyu's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 ---
 
@@ -19,7 +19,7 @@ My dream is to make a really cool and useful AI like Jarvis 🤖 with various Io
 
 ## ⏰ Languages in my time
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seyu)](https://github.com/anuraghazra/github-readme-stats)
+[![Seheon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seyu)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 # 📊 My Github Stats
