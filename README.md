@@ -22,5 +22,5 @@ My dream is to make a really cool and useful AI like Jarvis 🤖 with various Io
 [![Seheon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seyu)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-# 📊 My Github Stats
+## 📊 My Github Stats
 [![Seheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seheonyu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
