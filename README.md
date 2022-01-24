@@ -8,7 +8,7 @@ I'm also interested in making useful services and machines.
 
 My dream is to make a really cool and useful AI like Jarvis 🤖 with various IoT devices in my home 🏠
 
-## 🐥 Study in 42 since 2020.2. 
+## 🐥 Study in 42 since 2020.1.20
 [![seyu's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 ---
