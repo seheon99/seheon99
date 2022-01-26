@@ -15,7 +15,7 @@ My dream is to make a really cool and useful AI like Jarvis 🤖 with various Io
 
 ## 📄 Languages in my code
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeheonYu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seheon99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⏰ Languages in my week
 
@@ -23,4 +23,4 @@ My dream is to make a really cool and useful AI like Jarvis 🤖 with various Io
 
 ---
 ## 📊 My Github Stats
-[![Seheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seheonyu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Seheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seheon99&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
