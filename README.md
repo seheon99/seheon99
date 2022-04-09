@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeheonYu%2FSeheonYu&count_bg=%235094F0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com) [![wakatime](https://wakatime.com/badge/user/446db5e7-ff26-4081-90ae-091b9f0fc8b2.svg)](https://wakatime.com/@446db5e7-ff26-4081-90ae-091b9f0fc8b2)
 
-Hi, I'm Seheon --- a CS student with an interest in NLP 🧐
+Hi, I'm Seheon --- a CS student with an interest in embedded system 🧐
 
 I'm also interested in making useful services and machines.
 
