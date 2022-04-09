@@ -10,7 +10,7 @@ My dream is to make a really cool and useful AI like Jarvis 🤖 with various Io
 
 ## 🐥 Study in 42 since 2020.1.
 
-[![seyu's 42 stats](https://badge42.herokuapp.com/api/stats/seyu?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![seyu's 42 stats](https://badge42.vercel.app/api/v2/cl1rqpl2d005409kzu6injhgi/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
 ## 🐥 Algorithm Newbie
 
