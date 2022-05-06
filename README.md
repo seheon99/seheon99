@@ -12,12 +12,6 @@ My dream is to make a really cool and useful AI like Jarvis 🤖 with various Io
 
 [![seyu's 42 stats](https://badge42.vercel.app/api/v2/cl1rqpl2d005409kzu6injhgi/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
-## 🐥 Algorithm Newbie
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=seyu)](https://solved.ac/seyu)
-
----
-
 ## 📄 Languages in my code
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seheon99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,7 +19,3 @@ My dream is to make a really cool and useful AI like Jarvis 🤖 with various Io
 ## ⏰ Languages in my week
 
 [![Seheon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seheon99)](https://github.com/anuraghazra/github-readme-stats)
-
----
-## 📊 My Github Stats
-[![Seheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seheon99&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
