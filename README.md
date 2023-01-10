@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/446db5e7-ff26-4081-90ae-091b9f0fc8b2.svg)](https://wakatime.com/@446db5e7-ff26-4081-90ae-091b9f0fc8b2)
 
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=seyu)](https://solved.ac/seyu)
+
 ## 🐥 Study in 42 since 2020.1.
 
 [![seyu's 42 stats](https://badge42.vercel.app/api/v2/cl1rqpl2d005409kzu6injhgi/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
