@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Seheon%20Yu&fontColor=393E46&fontSize=100&fontAlign=70&fontAlignY=60&desc=Junior%20in%20Computer%20Science&descAlign=70&descAlignY=85&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Seheon%20Yu&fontColor=393E46&fontSize=100&fontAlign=70&fontAlignY=60&desc=Bachelor%20of%20Computer%20Science&descAlign=70&descAlignY=85&rotate=0)
 
 [![wakatime](https://wakatime.com/badge/user/446db5e7-ff26-4081-90ae-091b9f0fc8b2.svg)](https://wakatime.com/@446db5e7-ff26-4081-90ae-091b9f0fc8b2)
 
