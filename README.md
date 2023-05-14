@@ -3,6 +3,7 @@
 ![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c&logoColor=A8B9CC)
 
 ### Frontend
 
