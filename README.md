@@ -15,7 +15,7 @@
 ### Backend
 
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](#)
-[![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)](#)
+[![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)](#)
 [![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)](#)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](#)
 
