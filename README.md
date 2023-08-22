@@ -31,7 +31,7 @@
   </a>
   
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seheon99&langs_count=10&exclude_repo=&hide=css,scss,html,dockerfile,makefile,shell,php,ejs&layout=default&hide_border=true&theme=transparent" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seheon99&langs_count=10&hide=css,scss,html,dockerfile,makefile,shell,php,ejs&layout=compact&hide_border=true&theme=transparent" /><br>
   </a>
 </details>
 
