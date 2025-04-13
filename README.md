@@ -17,12 +17,7 @@
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](#web)
 [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](#web)
 [![SWR](https://img.shields.io/badge/swr-black?style=for-the-badge&logo=swr)](#web)
-
-### Server
-
-[![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](#)
-[![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)](#)
-[![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](#)
+[![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](#web)
 
 <details>
   <summary>View Cards</summary>
