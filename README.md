@@ -16,9 +16,7 @@
 
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](#web)
 [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](#web)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](#web)
-[![React Query](https://img.shields.io/badge/react--query-black?style=for-the-badge&logo=reactquery)](#web)
-[![Redux Toolkit](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](#web)
+[![SWR](https://img.shields.io/badge/swr-black?style=for-the-badge&logo=swr)](#web)
 
 ### Server
 
